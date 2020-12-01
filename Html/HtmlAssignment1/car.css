@@ -1,0 +1,228 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.logo
+    {
+        width: 30%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .logo img
+    {
+        width: 40%;
+        border: 3px solid black;
+        border-radius: 50%;
+    }
+.navbar
+    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: sticky;
+        top: 0;
+    }
+
+.nav-list
+    {
+        width: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+.nav-list li
+    {
+        list-style: none;
+        padding: 2%;
+        right: 20%;
+    }
+
+.nav-list li a
+    {
+        direction: none;
+        color: white;
+        font-size: large;
+        padding: 0px 5px;
+    }
+    .nav-list li a:hover
+    {
+        color: yellow;
+    }
+.cover img 
+    {
+        width: 100%;
+    }
+.text
+    {
+        position: absolute;
+        top: 30%;
+        right: 100px;
+        color:red; 
+    }
+    .btn1
+    {
+        position: absolute;
+        top: 80;
+        right: 250px;
+        padding: 10px;
+        text-transform: uppercase;
+        background-color: rebeccapurple;
+        border-radius: 10px;
+        color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        letter-spacing: 1px;
+        cursor: pointer;
+    }
+    
+#search
+    {
+        padding: 3px;
+        font-size: 17px;
+        border: 1px solid grey;
+        border-radius: 10px;
+
+    }
+
+.btn1:hover
+    {
+        background-color: red;
+        color: white;
+    } 
+
+.container
+    {
+        margin: 50px 50px 50px 5%;
+        width: 90%;
+        text-align: center;
+    }
+.categories
+    {
+        width: max-content;
+        margin: 2px;
+        border: 2px solid white;
+        display: inline-block;
+    }
+.categories:hover
+    {
+        box-shadow: 0px 0px 10px 3px #184d47;
+    }
+.item-image
+    {
+        height: 350px;
+        width: 350px;
+        padding: 1px;
+    }
+.categories a
+    {
+        text-decoration: none;
+    }
+.text-footer
+    {
+        text-align: center;
+        padding: 30px 0;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        display: flex;
+        justify-content: center;
+        color: black;
+        background-color: grey;
+        width: 100% ;
+    }
+.background
+    {
+        background: rgb(0,0,0,0.7) url('Images/banner.png');
+        background-size: cover;
+        background-blend-mode: darken;
+    }
+.line
+    {
+        width: 33px;
+        background-color: white;
+        height: 3px;
+        margin: 3px 3px;
+    }
+.burger
+    {
+        display: none;
+        position: absolute;
+        cursor: pointer;
+        right: 5%;
+        top: 10%;
+    }
+.contact
+    {
+        background-color: white;
+        height: 833px;
+    }
+    .form
+    {
+        max-width: 1000px;
+        margin: 25px auto;
+        
+    }
+.text-center
+    {
+        text-align: center;
+        padding-top: 30px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 35px;
+    }
+#text
+    {
+        width: 1000px;
+    }
+.form input
+    {
+        margin: 14px 0;
+        padding: 5px 3px;
+        font-size: 19px;
+        border: 2px solid grey;
+        width:100%;
+        border-radius: 6px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+    }
+.btn btn-dark
+    {
+
+    }
+
+@media only screen and (max-width:900px)
+    {
+        .nav-list
+            {
+                flex-direction: column;
+            }
+        .navbar
+            {
+                flex-direction: column;
+            }
+        #search
+            {
+                width: 100%;
+                text-align: center;
+            }
+        .btn btn-sm
+            {
+                text-align: center;
+            }
+        .burger
+            {
+                display: block;
+                top:20%;
+            }
+        .h-nav-resp
+            {
+                height: 72px;
+            }
+        .v-class-resp
+            {
+                opacity: 0;
+            }
+        .text
+            {
+                display: none;
+            }
+        }
+
