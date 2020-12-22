@@ -1,0 +1,130 @@
+﻿@model WebApp.Models.UserModel
+
+@{ 
+    ViewBag.Title = "Register";
+}
+<h2>Register</h2>
+
+<fieldset>
+    <legend>
+        User Registration
+    </legend>
+    @using (Html.BeginForm("Register", "Account", FormMethod.Post))
+    {
+<table>
+    <tr>
+        <td>
+            @Html.LabelFor(model => model.FirstName)
+        </td>
+        <td>
+            @Html.TextBoxFor(model => model.FirstName)
+        </td>
+        <td>
+            @Html.ValidationMessage("FirstName",null, new { @class = "text-danger" })
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @Html.LabelFor(model => model.LastName)
+        </td>
+        <td>
+            @Html.TextBoxFor(model => model.LastName)
+        </td>
+        <td>
+            @Html.ValidationMessageFor(model => model.LastName, null, new { @class = "text-danger" })
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @Html.LabelFor(model => model.Email)
+        </td>
+        <td>
+            @Html.TextBoxFor(model => model.Email)
+        </td>
+        <td>
+            @Html.ValidationMessageFor(model => model.Email, null, new { @class = "text-danger" })
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @Html.LabelFor(model => model.Password)
+        </td>
+        <td>
+            @Html.PasswordFor(model => model.Password)
+        </td>
+        <td>
+            @Html.ValidationMessageFor(model => model.Password, null, new { @class = "text-danger" })
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @Html.LabelFor(model => model.ConfirmPassword)
+        </td>
+        <td>
+            @Html.PasswordFor(model => model.ConfirmPassword)
+        </td>
+        <td>
+            @Html.ValidationMessageFor(model => model.ConfirmPassword, null, new { @class = "text-danger" })
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @Html.LabelFor(model => model.Phone)
+        </td>
+        <td>
+            @Html.TextBoxFor(model => model.Phone)
+        </td>
+        <td>
+            @Html.ValidationMessageFor(model => model.Phone, null, new { @class = "text-danger" })
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @Html.LabelFor(model => model.Age)
+        </td>
+        <td>
+            @Html.TextBoxFor(model => model.Age)
+        </td>
+        <td>
+            @Html.ValidationMessageFor(model => model.Age, null, new { @class = "text-danger" })
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @Html.LabelFor(model => model.ImagePath)
+        </td>
+        <td>
+            <input type="file" name="ImageFile" required />
+        </td>
+
+    </tr>
+    <tr>
+        <td>
+        </td>
+        <td>
+            <table>
+                <td>
+                    <input type="Submit" value="Register" />
+                </td>
+                <td>
+                    <input type="Reset" value="Reset" />
+                </td>
+            </table>
+        </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+        <td>
+            <p>
+                @Html.ActionLink("Login", "Login") If you Already have a local account.
+            </p>
+        </td>
+    </tr>
+    @Html.ValidationSummary(false, "Please fix the following error and then submit the form")
+</table>
+
+    }
+</fieldset>
+
+

@@ -1,0 +1,73 @@
+﻿@model WebAppRegisLogin.Models.LoginModel
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+<fieldset>
+    <legend>
+        User Login
+    </legend>
+    @using (Html.BeginForm("Login", "Account", FormMethod.Post))
+    {
+        <table>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.Email)
+                </td>
+                <td>
+                    @Html.TextBoxFor(model => model.Email)
+                </td>
+                <td>
+                    @Html.ValidationMessageFor(model => model.Email)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.Password)
+                </td>
+                <td>
+                    @Html.PasswordFor(model => model.Password)
+                </td>
+                <td>
+                    @Html.ValidationMessageFor(model => model.Password)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                </td>
+                <td>
+                    <table>
+                        <tr>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input type="submit" value="Login" />
+                            </td>
+                            <td>
+                                <input type="submit" value="Reset" />
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td>
+
+                </td>
+                <td>
+                    <p>
+                        @Html.ActionLink("Register", "Register") If you don't have a local account.
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                @Html.ValidationMessage("Error", null, new { @class = "text text-danger" })
+            </tr>
+        </table>
+    }
+</fieldset>
+
+
