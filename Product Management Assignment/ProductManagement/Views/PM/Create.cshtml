@@ -1,0 +1,105 @@
+﻿@model ProductManagement.Models.ProductManage
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/Master.cshtml";
+}
+
+<h2>Add New Product</h2>
+ 
+@using (Html.BeginForm("Create", "PM", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+<section class="content">
+    <div class="row">
+        <div class="box box-primary col-lg-1">
+            <div class="box-header with-border">
+                <div class="form-horizontal">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group">
+                        <br />
+                        <div class="row">
+                            @Html.LabelFor(model => model.Product_Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-5">
+                                @Html.EditorFor(model => model.Product_Name, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Product_Name, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            @Html.LabelFor(model => model.Category, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.DropDownListFor(model => model.Category, new List<SelectListItem> { new SelectListItem { Text = "Books", Value = "Books" }, new SelectListItem { Text = "Car & MotorBike", Value = "Car & MotorBike" }, new SelectListItem { Text = "Computer & Accessories", Value = "Computer & Accessories" }, new SelectListItem { Text = "Electronics", Value = "Electronics" }, new SelectListItem { Text = "Jewellery", Value = "Jewellery" } }, "Select", new { @class = "col-md-3" })
+                                @Html.ValidationMessageFor(model => model.Category, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            @Html.LabelFor(model => model.Price, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-5">
+                                @Html.EditorFor(model => model.Price, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Price, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            @Html.LabelFor(model => model.Quantity, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-5">
+                                @Html.DropDownListFor(model => model.Quantity, new List<SelectListItem> { new SelectListItem { Text = "1", Value = "1" }, new SelectListItem { Text = "2", Value = "2" }, new SelectListItem { Text = "3", Value = "3" }, new SelectListItem { Text = "4", Value = "4" }, new SelectListItem { Text = "5", Value = "5" } }, "Select", new { @class = "col-md-5" })
+                                @Html.ValidationMessageFor(model => model.Quantity, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            @Html.LabelFor(model => model.Short_Description, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-5">
+                                @Html.EditorFor(model => model.Short_Description, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Short_Description, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            @Html.LabelFor(model => model.Long_Description, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-5">
+                                 @Html.EditorFor(model => model.Long_Description, new { htmlAttributes = new { @class = "form-control" } })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            @Html.LabelFor(model => model.Small_Image, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-5">
+                                <input type="file" name="file1" required="required" id="file" />
+                                @Html.ValidationMessageFor(model => model.Small_Image, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            @Html.LabelFor(model => model.Large_Image, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-5">
+                                <input type="file" name="file2" id="file" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Back" class="btn btn-default" onclick="location.href='@Url.Action("Index","PM")'"/>
+                            <input type="submit" value="Create" class="btn btn-primary" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+</section>
+}
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+

@@ -1,0 +1,159 @@
+﻿@model IPagedList<ProductManagement.Models.ProductManage>
+@using PagedList;
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Master.cshtml";
+}
+
+<h2>Product List</h2>
+
+<link href="~/Content/toastr.min.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+@if (Request.Cookies.AllKeys.Contains("CookieAdd"))
+{
+    <script>
+        $(document).ready(function () {
+            toastr["success"]("Product Added Successfully! ")
+        })
+    </script>
+}
+
+@if (Request.Cookies.AllKeys.Contains("CookieEdit"))
+{
+    <script>
+        $(document).ready(function () {
+            toastr["success"]("Product Edited Successfully! ")
+        })
+    </script>
+}
+@if (Request.Cookies.AllKeys.Contains("CookieDelete"))
+{
+    <script>
+        $(document).ready(function () {
+            toastr["success"]("Product Deleted Successfully! ")
+        })
+    </script>
+}
+@if (Request.Cookies.AllKeys.Contains("CookieDeleteAll"))
+{
+    <script>
+        $(document).ready(function () {
+            toastr["success"]("Selected Products Deleted Successfully! ")
+        })
+    </script>
+}
+<p>
+    @Html.ActionLink("AddProduct", "Create", "PM", new { @class = "btn btn-primary glyphicon glyphicon-plus" })
+    <br />
+</p>
+<section class="content">
+    <div class="row">
+        <div class="col-xs-12">
+
+            <div class="box box-primary">
+                <div class="box-header">
+                    <h3 class="box-title">Product List</h3>
+                    <br />
+                    <br />
+                    @using (Html.BeginForm("Index", "PM", FormMethod.Get))
+                    {
+                        <p>
+                            <b>Search By:</b>
+                            @Html.RadioButton("SearchBy", "Product_Name") <text>Name</text>
+                            @Html.RadioButton("SearchBy", "Category") <text>Category</text> <br />
+                            <div class="row">
+                                <div class="col-md-8">
+                                    @Html.TextBox("Search") <button type="submit" value="Search" id="SearchBy"><i class="glyphicon glyphicon-search"></i>Search</button>
+                                </div>
+
+
+                                <div class="col-md-4">
+                                    @Html.TextBox("AdvanceSearch") <button type="submit" value="AdvanceSearch" id="AdvanceSearch"><i class="glyphicon glyphicon-search"></i>Advance Search</button>
+                                </div>
+                            </div>
+                        </p>
+                    }
+                </div>
+                @using (Html.BeginForm("DeleteAll", "PM", FormMethod.Post))
+                {
+                    <div class="box-body">
+                        <table class="table table-bordered table-striped">
+                            <tr>
+                                <th>
+                                    @Html.ActionLink("Product_Name", "Index", new { sortBy = ViewBag.SortyNameParameter, SearchBy = Request.QueryString["SearchBy"], Search = Request["Search"] })
+                                </th>
+                                <th>
+                                    @Html.ActionLink("Category", "Index", new { sortBy = ViewBag.SortyNameParameter, SearchBy = Request.QueryString["SearchBy"], Search = Request["Search"] })
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().Price)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().Quantity)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().Short_Description)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().Small_Image)
+                                </th>
+                                <th>
+                                    Multiple <br />
+                                    Delete
+                                </th>
+                                <th>
+                                    Action
+                                </th>
+                            </tr>
+
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Product_Name)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Category)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Price)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Quantity)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Short_Description)
+                                    </td>
+                                    <td>
+                                        <img src="@Url.Content(item.Small_Image)" width="80" height="80" />
+                                    </td>
+                                    <td>
+                                        <input type="checkbox" name="id" value="@item.ID" />
+                                    </td>
+                                    <td>
+                                        @Html.ActionLink("Edit", "Edit", new { id = item.ID }, new { @class = "btn btn-success glyphicon glyphicon-pencil " })
+                                        @Html.ActionLink("Delete", "Delete", new { id = item.ID }, new { @class = "btn btn-danger glyphicon glyphicon-trash", id = "del", onclick = "return confirm('Confirm You Want to Delete This Product?');" })
+                                    </td>
+                                </tr>
+                            }
+                        </table>
+                        <button type="submit" class="btn btn-primary pull-right" style="margin:20px">Delete Selected Products</button>
+                        <div class="pull-left" style="padding-left:20px">
+                            @Html.PagedListPager(Model, page => Url.Action("Index", new { page, SearchBy = Request.QueryString["SearchBy"], Search = Request.QueryString["Search"], sortBy = Request.QueryString["sortBy"] })
+             , new PagedListRenderOptions() { DisplayPageCountAndCurrentLocation = true })
+                        </div>
+
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</section>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#product').DataTable();
+    });
+</script>
+<script src="~/Scripts/toast.min.js"></script>

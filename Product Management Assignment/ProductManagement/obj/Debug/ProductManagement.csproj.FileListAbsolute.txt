@@ -1,0 +1,179 @@
+D:\ME\Gateway\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csprojAssemblyReference.cache
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\ProductManagement.dll.config
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\ProductManagement.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\ProductManagement.pdb
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\csc.exe
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\csc.exe.config
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\csc.rsp
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\csi.exe
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\csi.exe.config
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\csi.rsp
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.AppContext.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Console.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Globalization.Calendars.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.IO.Compression.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Net.Http.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Net.Sockets.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.ValueTuple.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Xml.XPath.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\vbc.exe
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\vbc.exe.config
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\vbc.rsp
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\VBCSCompiler.exe
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\Antlr3.Runtime.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\EntityFramework.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\EntityFramework.SqlServer.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\Newtonsoft.Json.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\System.Web.Helpers.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\System.Web.Mvc.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\System.Web.Optimization.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\System.Web.Razor.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\System.Web.WebPages.Deployment.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\System.Web.WebPages.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\System.Web.WebPages.Razor.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\WebGrease.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\EntityFramework.xml
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\EntityFramework.SqlServer.xml
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\System.Web.Helpers.xml
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\System.Web.Mvc.xml
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\System.Web.Optimization.xml
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\System.Web.Razor.xml
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\System.Web.WebPages.xml
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\System.Web.WebPages.Deployment.xml
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\System.Web.WebPages.Razor.xml
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\Newtonsoft.Json.xml
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\Antlr3.Runtime.pdb
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ME\Gateway\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.CopyComplete
+D:\ME\Gateway\ProductManagement\ProductManagement\obj\Debug\ProductManagement.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\obj\Debug\ProductManagement.pdb
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\PagedList.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\PagedList.Mvc.dll
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\PagedList.xml
+D:\ME\Gateway\ProductManagement\ProductManagement\bin\PagedList.Mvc.xml
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\ProductManagement.dll.config
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\ProductManagement.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\ProductManagement.pdb
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\csc.exe
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\csc.exe.config
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\csc.rsp
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\csi.exe
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\csi.exe.config
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\csi.rsp
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.AppContext.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Console.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\vbc.exe
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\vbc.exe.config
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\vbc.rsp
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\Antlr3.Runtime.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\EntityFramework.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\Newtonsoft.Json.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\PagedList.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\PagedList.Mvc.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.Helpers.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.Mvc.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.Optimization.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.Razor.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.WebPages.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\WebGrease.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\EntityFramework.xml
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\PagedList.xml
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\PagedList.Mvc.xml
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.Helpers.xml
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.Mvc.xml
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.Optimization.xml
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.Razor.xml
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.WebPages.xml
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\Newtonsoft.Json.xml
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\Antlr3.Runtime.pdb
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\obj\Debug\ProductManagement.csprojAssemblyReference.cache
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\obj\Debug\ProductManagement.csproj.CopyComplete
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\obj\Debug\ProductManagement.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\obj\Debug\ProductManagement.pdb
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Net.Http.Formatting.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.Http.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.Http.WebHost.dll
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Net.Http.Formatting.xml
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.Http.xml
+C:\Users\aadit\Downloads\Projects\Meet Frnd\Assignment\ProductManagement\bin\System.Web.Http.WebHost.xml
