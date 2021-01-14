@@ -1,0 +1,36 @@
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\bin\Debug\HMS.DAL.dll
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\bin\Debug\HMS.DAL.pdb
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\bin\Debug\HMS.Models.dll
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\bin\Debug\HMS.Models.pdb
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\obj\Debug\HMS.DAL.csprojAssemblyReference.cache
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\obj\Debug\HMS.DAL.csproj.CoreCompileInputs.cache
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\obj\Debug\HMS.DAL.csproj.CopyComplete
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\obj\Debug\HMS.DAL.dll
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\obj\Debug\HMS.DAL.pdb
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\bin\Debug\HMS.DAL.dll.config
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\bin\Debug\EntityFramework.dll
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\bin\Debug\EntityFramework.xml
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\bin\Debug\AutoMapper.dll
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\bin\Debug\System.ValueTuple.dll
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\bin\Debug\AutoMapper.xml
+F:\GATEWAY\Gateway Assignments\Web Api Final Assignment\HMS.DAL\bin\Debug\System.ValueTuple.xml
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\bin\Debug\HMS.DAL.dll.config
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\bin\Debug\HMS.DAL.dll
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\bin\Debug\HMS.DAL.pdb
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\bin\Debug\AutoMapper.dll
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\bin\Debug\EntityFramework.dll
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\bin\Debug\HMS.Models.dll
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\bin\Debug\HMS.Models.pdb
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\bin\Debug\AutoMapper.xml
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\bin\Debug\EntityFramework.xml
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\bin\Debug\System.ValueTuple.xml
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\obj\Debug\HMS.DAL.csprojAssemblyReference.cache
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\obj\Debug\HMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\obj\Debug\HMS.DAL.csproj.CopyComplete
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\obj\Debug\HMS.DAL.dll
+C:\Users\aadit\Downloads\Projects\Git\httpsgithub.comsaurabhsinghdikhitGATEWAY_ASSIGNMENTS\GATEWAY_ASSIGNMENTS-main\Web Api Final Assignment\HMS.DAL\obj\Debug\HMS.DAL.pdb
